@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "api-3958593929395838293859-1111",
+  "private_key_id": "kd90349tjg949f9w43oeod030ti949it9i9fi93if93ie09iif39393",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nYour private key will be here\n-----END PRIVATE KEY-----\n",
+  "client_email": "myapi@apis4you.iam.gserviceaccount.com",
+  "client_id": "9239482384293423842394238592",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/myapi@apis4you.iam.gserviceaccount.com"
+}
